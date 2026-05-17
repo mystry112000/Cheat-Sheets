@@ -57,4 +57,5 @@ Made with ❤️ by Adhithya J
 
   🐙  GitHub:     https://github.com/mystry112000
   📷  Instagram:  https://www.instagram.com/_.itz_adhithya._/
+  📬  Contact:    https://mystry112000.github.io/About-Me/contact.html
 ```
